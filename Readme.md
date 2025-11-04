@@ -1,5 +1,5 @@
 # Reasoning Efficiency
-This repository contains the code used in the paper [Are Language Models Efficient Reasoners? A Perspective from Logic Programming](https://arxiv.org/abs/2510.25626), NeurIPS 2025. Data generation is done by adapting the [MathGAP](https://github.com/eth-lre/mathgap-experiments) backend. All code specific to this paper can be found [here](experiments/proof_search).
+This repository contains the code used in the paper [Are Language Models Efficient Reasoners? A Perspective from Logic Programming](https://arxiv.org/pdf/2510.25626), NeurIPS 2025. Data generation is done by adapting the [MathGAP](https://github.com/eth-lre/mathgap-experiments) backend. All code specific to this paper can be found [here](experiments/proof_search).
 
 
 ## Data
