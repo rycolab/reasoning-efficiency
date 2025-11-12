@@ -10,7 +10,7 @@ The generated datasets used for evaluation can be found [here](https://polybox.e
 ## Citation
 ```bibtex
 @inproceedings{opedal2025efficientreasoners,
-  title = {Are Language Models Efficient Reasoners? A Perspective from Logic Programming},
+  title = {Are Language Models Efficient Reasoners? {A} Perspective from Logic Programming},
   author = {Opedal, Andreas and Zengaffinen, Yanick and Shirakami, Haruki and Pasti, Clemente and Sachan, Mrinmaya and Saparov, Abulhair and Cotterell, Ryan and Schölkopf, Bernhard},
   year = {2025},
   booktitle = {The Thirty-ninth Annual Conference on Neural Information Processing Systems},
